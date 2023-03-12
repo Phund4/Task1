@@ -1,0 +1,35 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    padding-left: 30px;
+}
+
+#error {
+    color: red;
+}
+
+#settings {
+    margin: 30px 0 10px 0;
+}
+
+#settings input {
+    width: 100px;
+}
+
+#start, #end, #clear {
+    width: 100px;
+    height: min-content;
+}
+
+#timer {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.isHide {
+    display: none;
+}
+
+.redBorder {
+    border: 1px solid red;
+}
